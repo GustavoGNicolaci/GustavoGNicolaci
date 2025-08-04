@@ -66,4 +66,3 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Ipiranga (2
 ## 📫 **Contato**  
 💼 **LinkedIn:** [linkedin.com/in/gustavo-nicolaci-549092289](https://www.linkedin.com/in/gustavo-nicolaci-549092289/)  
 📧 **Email:** [gustavo_nicolaci@hotmail.com](mailto:gustavo_nicolaci@hotmail.com)  
-📞 **WhatsApp:** [(11) 98515-8393](https://wa.me/5511985158393)  
